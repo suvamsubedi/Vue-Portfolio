@@ -1,5 +1,5 @@
 <template>
-    <h1>I am contact</h1>
+    <h1>This is contact</h1>
 </template>
 
 <style>
